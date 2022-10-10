@@ -1,0 +1,17 @@
+.place {
+    display: grid;
+    max-width: 984px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, min-content);
+    gap: 48px 40px;
+    justify-items: start;
+    align-items: stretch;
+    margin-top: 80px;
+    grid-template-areas: 
+    "title website"
+    "image paragraph";
+}
+
+.place:first-of-type {
+    margin-top: 0;
+}

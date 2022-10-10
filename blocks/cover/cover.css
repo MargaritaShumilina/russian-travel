@@ -1,0 +1,8 @@
+.cover {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    justify-items: center;
+    position: relative;
+    margin: 0 calc((100% - 1184px)/2) 92px calc((100% - 1184px)/2);
+}
