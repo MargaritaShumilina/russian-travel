@@ -1,5 +1,11 @@
 .place__website {
     grid-area: website;
-    max-width: 456px;
+    max-width: 100%;
     align-self: end;
+}
+
+@media screen and (max-width: 767px) {
+    .place__website {
+        margin: 0 calc((100% - 288px)/2) 0 calc((100% - 288px)/2);
+    }
 }
