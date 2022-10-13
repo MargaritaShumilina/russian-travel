@@ -1,7 +1,7 @@
 # Проектная работа - 3 спринт
 ## Проект: Путешествие по России
 ------
-* [Ссылка на проект в GitHub](https://github.com/MargaritaShumilina/russian-travel.git)
+* [Ссылка на проект в GitHub](https://margaritashumilina.github.io/russian-travel/)  
 Проектная работа по верстке с макета в Figma адаптивного по дизайну сайта.
 ### Используемые технологии:
  * Grid Layout;
