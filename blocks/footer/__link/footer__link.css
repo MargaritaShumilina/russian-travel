@@ -4,7 +4,5 @@
 }
 
 .footer__link:hover {
-    color: #fff;
-    text-decoration: none;
-    opacity: 30%;
+    opacity: 80%;
 }
